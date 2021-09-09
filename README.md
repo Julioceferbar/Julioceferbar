@@ -23,7 +23,7 @@
   ##
 
   
-![Snake animation](https://github.com/julioceferbar/julioceferbar/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Julioceferbar/Julioceferbar/blob/output/github-contribution-grid-snake.svg)
  
 </div>
   
